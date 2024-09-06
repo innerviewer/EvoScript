@@ -2,8 +2,8 @@
 // Created by innerviewer on 10/10/2023.
 //
 
-#ifndef SRENGINE_CMAKECODEGEN_H
-#define SRENGINE_CMAKECODEGEN_H
+#ifndef SR_ENGINE_CMAKECODEGEN_H
+#define SR_ENGINE_CMAKECODEGEN_H
 
 #include <EvoScript/macros.h>
 
@@ -22,4 +22,4 @@ namespace EvoScript {
     };
 }
 
-#endif //SRENGINE_CMAKECODEGEN_H
+#endif //SR_ENGINE_CMAKECODEGEN_H

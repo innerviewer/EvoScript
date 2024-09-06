@@ -2,8 +2,8 @@
 // Created by Monika on 31.12.2022.
 //
 
-#ifndef SRENGINE_FINDER_H
-#define SRENGINE_FINDER_H
+#ifndef SR_ENGINE_FINDER_H
+#define SR_ENGINE_FINDER_H
 
 #include <EvoScript/Tools/StringUtils.h>
 #include <EvoScript/Tools/Debug.h>
@@ -123,4 +123,4 @@ namespace EvoScript::Tools {
     }
 }
 
-#endif //SRENGINE_FINDER_H
+#endif //SR_ENGINE_FINDER_H

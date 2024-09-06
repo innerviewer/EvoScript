@@ -2,8 +2,8 @@
 // Created by Monika on 30.10.2021.
 //
 
-#ifndef GAMEENGINE_CASTING_H
-#define GAMEENGINE_CASTING_H
+#ifndef SR_ENGINE_CASTING_H
+#define SR_ENGINE_CASTING_H
 
 #include <string>
 #include <functional>
@@ -65,4 +65,4 @@ namespace EvoScript {
     generator->RegisterCast(fun1to2, #_from, #_to, EvoScript::CastingType::Dynamic);   \
     generator->RegisterCast(fun2to1, #_to, #_from, EvoScript::CastingType::Dynamic); } \
 
-#endif //GAMEENGINE_CASTING_H
+#endif //SR_ENGINE_CASTING_H
